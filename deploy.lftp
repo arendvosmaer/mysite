@@ -1,0 +1,2 @@
+set ftp:ssl-allow false
+mirror -vv --reverse --delete
