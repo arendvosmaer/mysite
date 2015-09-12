@@ -9,3 +9,6 @@ github_username:  arendvosmaer
 
 # Build settings
 markdown: kramdown
+
+# Exclude
+exclude: [Makefile, deploy.lftp, Icon*]
