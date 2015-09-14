@@ -8,3 +8,6 @@ ftp:
 	cd _site/ && lftp ftp.arendvosmaer.nl < ../deploy.lftp
 
 deploy: build push ftp
+
+it:
+so: deploy
