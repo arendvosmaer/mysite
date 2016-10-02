@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Legal hacking topics"
+date:   2016-03-25
+categories: jekyll update
+---
+
+TOPICS
+
+1. [liquid feedback](http://liquidfeedback.org/)
+2. legal codes in git
+    1. [GitLaw: GitHub for Laws and Legal Documents](https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/)
+    1. [German Federal Law Now on GitHub](http://www.wired.com/2012/08/bundestag/)
+1. law visualization
+    1. [Visual Contracting POC](https://cs.anu.edu.au/people/Michael.Curtotti/visualcontracting/)
+    1. [Article on the above visualization initiative](https://www.academia.edu/6314038/Making_the_Meaning_of_Contracts_Visible_Automating_Contract_Visualization)
+    1. [Blog on making law understandable through visualization and design](https://blog.law.cornell.edu/voxpop/2014/09/18/is-it-good-enough-for-the-law-to-be-written-for-lawyers/)
+1. legal design
+    1. [Visual Law](https://blog.law.cornell.edu/voxpop/2013/05/15/visual-law-what-lawyers-need-to-learn-from-information-designers/)
+    1. [Richard Heaton on "Good Law"](https://www.youtube.com/watch?v=p8GUG0S9esU)
+1. research tools
+    1. [Casetext](https://casetext.com/)
+    1. [Ravel Law](https://www.ravellaw.com/)
