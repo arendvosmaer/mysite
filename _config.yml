@@ -4,7 +4,7 @@ email: contact@arendvosmaer.nl
 description: > # this means to ignore newlines until "baseurl:"
   Because.. Arend!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://arendvosmaer.nl" # the base hostname & protocol for your site
+url: "http://test.arendvosmaer.nl" # the base hostname & protocol for your site
 github_username:  arendvosmaer
 
 # Build settings
